@@ -20,9 +20,8 @@ In 2017 after graduating from university, I taught myself AI to become a Data Sc
   - **Tools** - Biosppy, Matplotlib, Plotly
   - **Category** - Anomaly Detection
  <img src="https://github.com/mlhubca/lab/blob/master/eventstore/animation.gif?raw=true" alt="ECG plot" width="500">
-""![Image](https://github.com/mlhubca/lab/blob/master/eventstore/animation.gif?raw=true)"""
 - [PersonalityHR](https://github.com/ssuleyma/PersonalityHR) - <i>2019</i>
-  - Nowadays, it is very hard to find qualified talent because the traidonal processes to assess candidates’ skills are flawed and biased. When hard skills could be measured by tests or take to home projects, measuring soft skills with multiple choice questions is definitely not the best way. One could entrust this task to the hiring manager, but who guarantees that there will be no bias? How can AI facilitate hiring process? **This project demonstrates how AI could be utilized in hiring process to identify soft skills of candidates, match those with the values of the company, and compare the candidates.**
+  - Nowadays, it is very hard to find qualified talent because the traidonal processes to assess candidates’ skills are flawed and biased. When hard skills could be measured by tests or take to home projects, measuring soft skills with multiple choice questions is definitely not the best way. One could entrust this task to the hiring manager, but who guarantees that there will be no bias? How can AI facilitate hiring process? This project demonstrates how AI could be utilized in hiring process to identify soft skills of candidates, match those with the values of the company, and compare the candidates.
   - Check out the [dashboard application](https://dataplatform.cloud.ibm.com/dashboards/4e72ca8a-3519-4627-ac7c-d94493fa1e66/view/5f67dc1621a93d904ec3dce407cc2d507c362759b3bbd152d3d67b4906357697f36a1a93c82d480fd916036af6ef170dc9)
   - **Tools** - IBM Watson, Cognos Analytics
   - **Category** - NLU
