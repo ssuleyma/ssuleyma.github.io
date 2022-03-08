@@ -16,16 +16,19 @@ In 2017 after graduating from university, I taught myself AI to become a Data Sc
 
 ### Projects I created
 - [Healthcare QRS Analysis](https://github.com/ssuleyma/Healthcare-QRS) - <i>2018</i>
-  - A normal ECG heart signal consists of a periodic pattern. Different points in a signal period of this pattern are labeled as P,Q,R,S and T. The QRS complex corresponds to the depolarization of the right and left verticles og the human heart. If they are working efficiently, the QRS complex is 0.08-0.12 seconds in duration. In this project I conducted ECG analysis to detect QRS complexes and their duration. As the data is being analyzed, waveform graphs and numerical metrics are displayed to monitor the healthcare metrics of the patient.
+  - A normal ECG heart signal consists of a periodic pattern. Different points in a signal period of this pattern are labeled as P,Q,R,S and T. The QRS complex corresponds to the depolarization of the right and left verticles of the human heart. If they are working efficiently, the QRS complex is 0.08-0.12 seconds in duration. In this project, I conducted ECG analysis to detect QRS complexes and their duration. As the data is being analyzed, waveform graphs and numerical metrics are displayed to monitor the healthcare metrics of the patient.
   - **Tools** - Biosppy, Matplotlib, Plotly
   - **Category** - Anomaly Detection
  <img src="https://github.com/mlhubca/lab/blob/master/eventstore/animation.gif?raw=true" alt="ECG plot" width="500">
+ 
 - [PersonalityHR](https://github.com/ssuleyma/PersonalityHR) - <i>2019</i>
-  - Nowadays, it is very hard to find qualified talent because the traidonal processes to assess candidates’ skills are flawed and biased. When hard skills could be measured by tests or take to home projects, measuring soft skills with multiple choice questions is definitely not the best way. One could entrust this task to the hiring manager, but who guarantees that there will be no bias? How can AI facilitate hiring process? This project demonstrates how AI could be utilized in hiring process to identify soft skills of candidates, match those with the values of the company, and compare the candidates.
+  - Nowadays, it is very hard to find qualified talent because the traditional processes to assess candidates’ skills are flawed and biased. When hard skills could be measured by tests or take-to-home projects, measuring soft skills with multiple-choice questions is definitely not the best way. One could entrust this task to the hiring manager, but who guarantees that there will be no bias? This project demonstrates how AI could be utilized in the hiring process to identify the soft skills of candidates, match those with the values of the company, and compare the candidates.
   - Check out the [dashboard application](https://dataplatform.cloud.ibm.com/dashboards/4e72ca8a-3519-4627-ac7c-d94493fa1e66/view/5f67dc1621a93d904ec3dce407cc2d507c362759b3bbd152d3d67b4906357697f36a1a93c82d480fd916036af6ef170dc9)
   - **Tools** - IBM Watson, Cognos Analytics
   - **Category** - NLU
+  
 - [Real Estate AI](https://github.com/ssuleyma/RealEstateAI) - <i>2020</i> 
+  - Moving to a new place is exciting and challenging. Since apartment hunting is very time-consuming, people mostly pay attention to price and neighborhood safety and rarely do they care about amenities around the neighborhood. AI-based real estate advisor recommends neighborhoods to people who move to a new city or country that match their lifestyle and budget the best.
   - Check out the [dashboard application](https://dataplatform.cloud.ibm.com/dashboards/0b822704-5deb-48be-8133-1fb4c4f0c231/view/771bdc7e3b962b944fe2bde407cb28552e31255fb3bb815182d77b490c327997a86f1490c87a4909d3125432f5ed150cce)
   - **Tools** - Foursquare API, AirBnB API, Cognos Analytics, Scikit-learn
   - **Category** - Clustering
