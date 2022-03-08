@@ -5,4 +5,5 @@ show_downloads: false
 show_excerpts: false
 github:
   is_project_page: false
+  site.github.repository_url: false
   
