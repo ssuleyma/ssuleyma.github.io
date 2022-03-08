@@ -34,7 +34,7 @@ In 2017 after graduating from university, I taught myself AI to become a Data Sc
   - **Category** - Clustering
 
 ### Conferences & webinars I spoke at
-1. **CASCON** - <i>2018</i>- [Practical machine learning with python on DSX](https://dblp.org/pid/235/7932.html)
+1. **CASCON** - <i>2018</i> - [Practical machine learning with python on DSX](https://dblp.org/pid/235/7932.html)
 2. **Chat with the Lab** - <i>2019</i> - [Real Data Science Challenges and How to Tackle Them](https://event.on24.com/eventRegistration/EventLobbyServlet?target=reg20.jsp&referrer=&eventid=2160039&sessionid=1&key=1E3A1C59DB46D3DD03B230A94781E9BC&regTag=&sourcepage=register)
 3. **Chat with the Lab** - <i>2020</i> - [Time-critical industry use cases](https://community.ibm.com/community/user/datascience/communities/community-home/digestviewer/viewthread?GroupId=2749&MessageKey=26b7031e-09b5-4570-9f72-3dfe41c811a2&CommunityKey=f1c2cf2b-28bf-4b68-8570-b239473dcbbc&tab=digestviewer#bm26b7031e-09b5-4570-9f72-3dfe41c811a2)
 4. **Data Science Salon** - <i>2021</i> -  [Breaking into AI: ML in the Real World](https://info.datascience.salon/breaking-into-ai-ml-in-the-real-world)
