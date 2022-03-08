@@ -2,7 +2,7 @@ theme: jekyll-theme-dinky
 title: Hi, I'm SAFURA Suleymanova
 description: Applied data scientist with passion towards automation and productivity.
 github:
-  repository_url: https://github.com/ektelo/ektelo
-  is_user_page: false
-  is_project_page: true
+  repository_url: https://github.com/ssuleyma
+  is_user_page: true
+  is_project_page: false
 show_downloads: false
