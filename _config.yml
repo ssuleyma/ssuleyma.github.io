@@ -2,6 +2,10 @@ theme: jekyll-theme-dinky
 title: Hi, I'm Safura
 description: Applied data scientist with passion towards automation and productivity.
 show_downloads: false
+social_links:
+  twitter: jekyllrb
+  github:  jekyll
+  linkedin: jekyll
 github:
   is_project_page: false
   
