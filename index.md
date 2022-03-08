@@ -1,37 +1,38 @@
-## Welcome to GitHub Pages
+## Hi, I'm Safura Suleymanova
+Applied data scientist with passion towards automation and productivity. 
 
-You can use the [editor on GitHub](https://github.com/ssuleyma/ssuleyma.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+In 2017 after graduating from university, I taught myself AI to become Data Scientist. Learn more about my journey:
+- Path to become Data Scientist. 
+- [How to successfully collaborate in consulting Data Science engagements?](https://safuras.notion.site/How-to-collaborate-in-DS-project-843e95410051486d9e8c906bd630b04f)
 
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+### Workshops I conducted
+- <i>ML 101 - 2019</i>
+  - Tools - Pandas, Numpy, Seaborn, Scikit-learn
+  - Category - ML, Supervised Learning, Classification
+- <i>Deploy ML models with Flask and Docker - 2020 </i>
+  - Tools - Flask, Docker
+  - Category - MLOps
+- <i>Plotly and Dash - 2021</i>
+  - Tools - Python, Plotly
+  - Category - Visualizations, Dashboards
 
-- Bulleted
-- List
+### Projects I created
+- Healthcare QRS Analysis - Year - 2018
+  - Tools, Category
+![Image](https://github.com/mlhubca/lab/blob/master/eventstore/animation.gif?raw=true)
+- PersonalityHR - 2019 - Check out the dashboard application
+  - Tools, Category
+- Real Estate AI  - 2020 - Check out the dashboard application
+  - Tools, Category
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ssuleyma/ssuleyma.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Conferences & Webinars I spoke at
+1. CASCON - 2018 - Practical machine learning with python on DSX
+2. Chat with the Lab - 2019 - Real Data Science Challenges and How to Tackle Them 
+3. Chat with the Lab - 2020 - Time-critical industry use cases
+4. Data Science Salon - 2021 -  Breaking into AI: ML in the Real World
+5. Toronto Machine Learning Society - 2021 - MLOps with Watson Openscale
