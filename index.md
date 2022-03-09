@@ -1,6 +1,6 @@
 ### About me
 In 2017 after graduating from university, I taught myself AI to become a Data Scientist. As I continue learning and growing I summarize the lessons learned:
-- [Path to become Data Scientist.](https://safuras.notion.site/Journey-to-Becoming-a-Data-Scientist-9c41fa0a6af947a9813e1e6ced4e68f4)
+- [Journey to becoming a Data Scientist](https://safuras.notion.site/Journey-to-Becoming-a-Data-Scientist-9c41fa0a6af947a9813e1e6ced4e68f4)
 - [How to successfully collaborate in Data Science engagements?](https://safuras.notion.site/How-to-collaborate-in-DS-project-843e95410051486d9e8c906bd630b04f)
 
 ### Workshops I conducted
