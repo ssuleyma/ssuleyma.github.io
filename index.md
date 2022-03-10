@@ -1,5 +1,7 @@
 ### About me
-In 2017 after graduating from university, I taught myself AI to become a Data Scientist. As I continue learning and growing I summarize the lessons learned:
+In 2017, I was working as a Financial Analyst and 100% of the time I was utilizing MS Excel to prepare various reports. 
+As a person who is obsessed with productivity, I decided to search for alternative tools to facilitate some of the tasks I was conducting. Eventually, I utilized an AI-powered reporting tool to conduct one of the tasks and reduced the workload to a day from a week.  The power of AI fascinated me and I decided to shift my career, and that is why after graduating from the university I spent 4 months learning AI and Machine Learning. And that's how I became a self-taught Data Scientist. 
+As the field of AI continues to evolve and develop I too continue learning and growing. Summaries of the lessons learned are available as blog posts:
 - [Journey to becoming a Data Scientist](https://safuras.notion.site/Journey-to-Becoming-a-Data-Scientist-9c41fa0a6af947a9813e1e6ced4e68f4)
 - [How to successfully collaborate in Data Science engagements?](https://safuras.notion.site/How-to-collaborate-in-DS-project-843e95410051486d9e8c906bd630b04f)
 
